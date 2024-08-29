@@ -93,3 +93,6 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+    #empresa de renta: mi codigo registra vehiculos, tenemos que registrar vehiculos, otro usuarios puede rentar
+    #los vehiculos registrados, podemos pedir que nos muetre los vehiculos discponibles y mostrar el historial
+    # de rentas.
